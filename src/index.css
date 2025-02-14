@@ -7,12 +7,14 @@
 }
 
 body{
-  background-image: url("/bg.jpg");
+  background-image: url("/blue1.webp");
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
   color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .container{
   width: 90vw;
